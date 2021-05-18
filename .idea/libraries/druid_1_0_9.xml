@@ -3,9 +3,9 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/druid-1.0.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/hamcrest-2.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/junit-4.10.jar!/" />
       <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/mysql-connector-java-8.0.23.jar!/" />
       <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/webapp/WEB-INF/junit-4.13.2.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
