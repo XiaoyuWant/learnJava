@@ -48,7 +48,7 @@ public class User {
                 '}';
     }
 
-    public User() {
+    public User(int i, java.lang.String username, java.lang.String admin, java.lang.String email) {
     }
 
     public User(Integer id, String username, String password, String email) {
