@@ -1,1 +1,2 @@
-## A Simple Web App Based on Servlet.
+# Java Learning Project
+
