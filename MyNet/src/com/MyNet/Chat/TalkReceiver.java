@@ -35,7 +35,7 @@ public class TalkReceiver implements Runnable{
             if(receiveData.equals("bye")){
                 break;
             }
-            System.out.println(this.msgFrom+":"+receiveData);
+            System.out.println(this.msgFrom+":"+receiveData+"\t"+packet.getAddress());
         }
         socket.close();
     }
